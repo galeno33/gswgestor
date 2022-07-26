@@ -1,8 +1,7 @@
 <?php
     include ('../sistem_adm/sql_code/select.php');
     include ('../sistem_adm/financeiro/soma.php');
-    //session_start();
-
+    //session_start(); 
 ?>
 
 <!DOCTYPE html>
