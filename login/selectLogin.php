@@ -29,7 +29,7 @@
             $_SESSION['row'] = $row;
             $_SESSION['count'] = $count;
             $_SESSION['resultLogin'] = $result;
-            //$_SESSION['row_usuario'] = $row_usuario;
+            //$_SESSION['row_usuario'] = $row_usuario; 
             //dados para ser informados na entrada do sistema
             $_SESSION['usuario'] = $matricula;
             $_SESSION['senha'] = $password;
